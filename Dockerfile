@@ -7,7 +7,6 @@
     "start": "node index.js"
   },
   "dependencies": {
-    "discord.js-selfbot-v13": "^13.14.3",
     "dotenv": "^16.4.5",
     "ws": "^8.16.0"
   },
